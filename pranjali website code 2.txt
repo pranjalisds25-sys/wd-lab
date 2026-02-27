@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Healthy Living Blog</title>
+</head>
+<body>
+
+<header>
+    <h1>Healthy Living</h1>
+    <p>Your guide to a better lifestyle</p>
+</header>
+
+<nav>
+    <a href="#">Home</a> |
+    <a href="#">Articles</a> |
+    <a href="#">Tips</a> |
+    <a href="#">Contact</a>
+</nav>
+
+<main>
+
+    <section>
+        
+        <article>
+            <header>
+                <h2>The Importance of Daily Exercise</h2>
+                <p>Published on 
+                    <time datetime="2026-02-27">February 27, 2026</time>
+                </p>
+            </header>
+
+            <figure>
+                <img src="https://via.placeholder.com/400x200" alt="People exercising">
+                <figcaption>Regular exercise improves both physical and mental health.</figcaption>
+            </figure>
+
+            <p>
+                Engaging in daily physical activity helps maintain a healthy body weight,
+                improves cardiovascular health, and boosts mood. Even a short walk can 
+                make a <mark>big difference</mark> in your overall well-being.
+            </p>
+
+            <details>
+                <summary>Benefits of Regular Exercise</summary>
+                <ul>
+                    <li>Stronger muscles and bones</li>
+                    <li>Better mental health</li>
+                    <li>Improved sleep quality</li>
+                    <li>Reduced risk of chronic diseases</li>
+                </ul>
+            </details>
+
+            <footer>
+                <p>Written by Health Expert Team</p>
+            </footer>
+        </article>
+
+    </section>
+
+    <aside>
+        <h3>Quick Health Tips</h3>
+        <ul>
+            <li>Drink at least 8 glasses of water daily.</li>
+            <li>Eat more fruits and vegetables.</li>
+            <li>Sleep 7–8 hours every night.</li>
+            <li>Avoid excessive screen time.</li>
+        </ul>
+    </aside>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Healthy Living. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
