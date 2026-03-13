@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+font-family: arial, sans-serif;
+border-collapse: collapse;
+width: 100%;
+}
+td, th {
+border: 1px solid #dddddd;
+text-align: left;
+padding: 8px;
+}
+tr:nth-child(even) {
+background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+<h2>SEC-H TIME Table</h2>
+<table>
+<tr>
+<th>TIME/DAY</th>
+<th>10:30 to 11:30</th>
+<th>11:30 to 12:30</th>
+<th>12:30 to 1:30</th>
+<th>1:30 to 2:30</th>
+<th>2:30 to 3:30</th>
+<th>3:30 to 4:30</th>
+<th>4:30 to 5:30 </th>
+</tr>
+<tr>
+<td>MONDAY</td>
+<td colspan ='2'>EGD</td>
+<td>CLUB HOUR</td>
+<td>BREAK</td>
+<td>ICLA</td>
+<td>PRACTICAL</td>
+<td>PRACTICAL</td>
+</tr>
+<tr>
+<td>TUESDAY</td>
+<td>IKS</td>
+<td colspan ='2'>PRACTICAL</td>
+<td>BREAK</td>
+<td colspan ='2'>TUTORIAL</td>
+<td>LLC</td>
+</tr>
+<td>WEDNESDAY</td>
+<td colspan ='2'>EGDL</td>
+<td>TUTORIAL</td>
+<td>BREAK</td>
+<td>SMP</td>
+<td>LLC</td>
+<td>IKS</td>
+<tr>
+<td>THURSDAY</td>
+<td colspan ='2'>EGDL</td>
+<td>MAKEUP CLASS</td>
+<td>BREAK</td>
+<td>TG</td>
+<td>SMP</td>
+<td>SELF LEARNING</td>
+</tr>
+<tr>
+<td>FRIDAY</td>
+<td colspan ='2'>WEB DESIGNING PRACTICAL</td>
+<td>AP</td>
+<td>BREAK</td>
+<td>ICLA</td>
+<td>MAKEUP CLASS</td>
+<td>SPORTS</td>
+</tr>
+<tr>
+<td>SATURDAY</td>
+<td colspan ='2'>SMPL</td>
+<td>ICLA</td>
+<td>BREAK</td>
+<td>AP</td>
+<td>WEB DESIGNING PRACTICAL</td>
+<td>WEB DESIGNING PRACTICAL</td>
+</tr>
+</table>
+</body>
+</html>
