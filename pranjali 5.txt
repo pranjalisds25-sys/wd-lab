@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume</title>
+</head>
+<body>
+
+    <h1 align="center">Pranjali Satpute</h1>
+    <p align="center">
+     <img src="pranju.jpg" width = "130" height ="130">
+<p align="center">
+        Email: your.email@example.com |
+        Phone: +91-1234567890 |
+        Address: Nagpur,Maharashtra, India
+    </p>
+
+    <hr>
+
+    <h2>Career Objective</h2>
+    <p>
+        To obtain a challenging position in a reputable organization where I can
+        utilize my skills and contribute to the company's growth.
+    </p>
+
+    <hr>
+
+    <h2>Education</h2>
+    <table border="1" cellpadding="5">
+        <tr>
+            <th>Degree</th>
+            <th>Institution</th>
+            <th>Year</th>
+            <th>Percentage / CGPA</th>
+        </tr>
+        <tr>
+            <td>Bachelor's Degree in B-tech ,CSE-DS</td>
+            <td>Rashtrasant Tukdoji Maharaj Nagpur University</td>
+            <td>2024</td>
+            <td>8.5 CGPA</td>
+        </tr>
+        <tr>
+            <td>Higher Secondary</td>
+            <td>ABC College</td>
+            <td>2020</td>
+            <td>85%</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+        <li>Problem Solving</li>
+    </ul>
+
+    <hr>
+
+    <h2>Projects</h2>
+    <ol>
+        <li>
+            <b>Student Management System</b><br>
+            Developed a web application to manage student records.
+        </li>
+        <li>
+            <b>Portfolio Website</b><br>
+            Created a personal portfolio using HTML and JavaScript.
+        </li>
+    </ol>
+
+    <hr>
+
+    <h2>Experience</h2>
+    <p>
+        <b>Intern - Web Developer</b><br>
+        XYZ Company (June 2023 – August 2023)
+    </p>
+    <ul>
+        <li>Worked on frontend development using HTML.</li>
+        <li>Assisted in debugging web applications.</li>
+    </ul>
+
+    <hr>
+
+    <h2>Personal Details</h2>
+    <table border="1" cellpadding="5">
+        <tr>
+            <td>Date of Birth</td>
+            <td>01 January 2000</td>
+        </tr>
+        <tr>
+            <td>Languages Known</td>
+            <td>English, Hindi</td>
+        </tr>
+        <tr>
+            <td>Nationality</td>
+            <td>Indian</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>Declaration</h2>
+    <p>
+        I hereby declare that the information provided above is true and correct
+        to the best of my knowledge.
+    </p>
+
+    <p>
+        <b>Place:</b> Nagpur<br>
+        <b>Date:</b> _13/03/2026_
+    </p>
+<p align="right">
+        <b>(Pranjali Satpute)</b>
+    </p>
+
+</body>
+</html>
